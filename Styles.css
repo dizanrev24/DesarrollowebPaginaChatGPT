@@ -1,0 +1,150 @@
+
+
+.Ventana {
+    width: 250px;
+    height: 605px;
+    border: 1px solid #000000;
+    background-color: rgba(12, 0, 121, 0.89);
+  } 
+
+.Titulo {
+    color: aliceblue;
+    font-size: 24px;
+    text-align: left;
+    transform: translate(05%, 15%);
+}
+
+.umg {
+    height: 45px;
+    width: 50px;
+    transform: translate(375%, -180%);
+}
+
+.slogan {
+    color: aliceblue;
+    transform: translate(05%, 15%)
+}
+
+.chats {
+    width: 225px;
+    height: 75px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: rgba(38, 198, 226, 0.89);
+    transform: translate(05%, -90%)
+}
+
+.tituchat {
+    font-size: 16px;
+    transform: translate(20%, -25%)
+}
+
+.conchat {
+    font-size: 12px;
+    transform: translate(5%, 95%)
+}
+
+.fechat {
+    font-size: 12px;
+    transform: translate(55%, -45%)
+}
+
+.boton1 {
+    width: 95px;
+    height: 45px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: rgba(38, 198, 226, 0.89);
+    transform: translate(15%, -75%)
+}
+
+.boton2 {
+    width: 95px;
+    height: 45px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: rgba(38, 198, 226, 0.89);
+    transform: translate(150%, -175%)
+    
+}
+
+.bplugin {
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    text-align: center;
+    transform: translate(-5%, 35%)
+}
+
+.bmascara {
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    text-align: center;
+    transform: translate(-5%, 35%)
+}
+
+.imgmascara {
+    height: 15px;
+    width: 15px;
+    transform: translate(45%, -160%)
+}
+
+.imgplugin {
+    height: 15px;
+    width: 15px;
+    transform: translate(45%, -160%)
+}
+
+
+.ventana2 {
+    width: 1040px;
+    height: 605px;
+    border: 1px solid #000000;
+    background-color: rgba(12, 0, 121, 0.89);
+    transform: translate(25%, -100%);
+}
+
+
+.encabezado {
+    width: 1040px;
+    height: 95px;
+    background-color: rgba(38, 198, 226, 0.89);
+    transform: translate(0%, -16%);
+}
+
+.texencabezado {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: left;
+    transform: translate(1%, 35%)
+}
+
+.textoen {
+    transform: translate(1%, 35%)
+}
+
+
+.areatexto {
+    width: 1000px;
+    height: 65px;
+    transform: translate(1.5%, 425%)
+}
+
+.mensaje {
+    width: 650px;
+    height: 35px;
+    background-color: rgba(38, 198, 226, 0.89);
+    border-radius: 10px;
+    transform: translate(03%, 125%);
+}
+
+.txtmensaje {
+    transform: translate(02%, 37%);
+}
+
+
+.umg1 {
+    border-radius: 10px;
+    height: 45px;
+    width: 50px;
+    transform: translate(40%, 125%);
+    }
